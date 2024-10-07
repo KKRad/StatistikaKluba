@@ -1,0 +1,35 @@
+.player-details {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .chart-container {
+    margin-bottom: 30px;
+  }
+  
+  .player-details ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .player-details li {
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    /* u PlayerList.css */
+.player-list button {
+    padding: 8px 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  
+  .player-list button:hover {
+    background-color: #45a049;
+  }
+  }

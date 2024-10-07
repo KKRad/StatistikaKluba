@@ -1,0 +1,21 @@
+.player-details {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .player-details h2 {
+    color: #333;
+  }
+  
+  .player-details ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .player-details li {
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+  }

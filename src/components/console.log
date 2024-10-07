@@ -1,0 +1,11 @@
+const handleSubmit = async (e) => {
+  e.preventDefault();
+  try {
+    await loginUser(email, password);
+    console.log("Uspešna prijava");
+    // ostatak koda...
+  } catch (error) {
+    console.error("Greška pri prijavi:", error);
+    // obrada greške...
+  }
+};

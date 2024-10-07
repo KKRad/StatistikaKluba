@@ -1,0 +1,61 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f0f0f0;
+  color: #333;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.btn-3d {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  border: none;
+  box-shadow: 0 5px 0 #45a049;
+  transition: all 0.1s;
+}
+
+.btn-3d:hover {
+  background-color: #45a049;
+  box-shadow: 0 2px 0 #45a049;
+  transform: translateY(3px);
+}
+
+.bowling-bg {
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsqcleca_7WkG6-awRdZK2L-tG7gJ8359aGg&s');
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+}
+
+.card {
+  background-color: rgba(255, 255, 255, 0.9);
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+th, td {
+  padding: 10px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+th {
+  background-color: #4CAF50;
+  color: white;
+}

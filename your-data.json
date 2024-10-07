@@ -1,0 +1,64 @@
+{
+  "clubs": [
+    {
+      "name": "KK RAD",
+      "players": [
+        { "fullName": "Marko Marković" },
+        { "fullName": "Petar Petrović" },
+        { "fullName": "Jovan Jovanović" }
+      ],
+      "games": [
+        {
+          "playerId": "player1_id",
+          "date": "2023-07-01T14:00:00Z",
+          "score": 150
+        },
+        {
+          "playerId": "player2_id",
+          "date": "2023-07-02T15:00:00Z",
+          "score": 180
+        }
+      ]
+    },
+    {
+      "name": "KK RAD 2",
+      "players": [
+        { "fullName": "Ana Anić" },
+        { "fullName": "Milica Milić" },
+        { "fullName": "Stefan Stefanović" }
+      ],
+      "games": [
+        {
+          "playerId": "player3_id",
+          "date": "2023-07-03T16:00:00Z",
+          "score": 165
+        },
+        {
+          "playerId": "player4_id",
+          "date": "2023-07-04T17:00:00Z",
+          "score": 175
+        }
+      ]
+    },
+    {
+      "name": "ŽKK OLIMP",
+      "players": [
+        { "fullName": "Jovana Jovanović" },
+        { "fullName": "Marija Marić" },
+        { "fullName": "Ivana Ivanović" }
+      ],
+      "games": [
+        {
+          "playerId": "player5_id",
+          "date": "2023-07-05T18:00:00Z",
+          "score": 160
+        },
+        {
+          "playerId": "player6_id",
+          "date": "2023-07-06T19:00:00Z",
+          "score": 170
+        }
+      ]
+    }
+  ]
+}
